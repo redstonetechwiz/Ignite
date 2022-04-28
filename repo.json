@@ -1,1 +1,63 @@
-{"name":"Ignite Repo","identifier":"owo.ignite","sourceURL":"https://github.com/redstonetechwiz/Ignite/blob/main/repo.json","apps":{"0":{"name":"Enmity","bundleIdentifier":"com.hammerandchisel.discord","developerName":"Enmity Team","version":"1.0.8-220.0","versionDate":"2022-04-16","versionDescription":"• Bug fixes","downloadURL":"https://github.com/enmity-mod/enmity-ios/releases/download/release-v1.0.8/Enmity.ipa","localizedDescription":"Tweaked Discord app for iOS","iconURL":"https://i.ibb.co/1Znz7Gt/D4092-E94-5-A95-4-B8-E-ADD5-83283-D590-F6-B.png","tintColor":18084,"isLanZouCloud":0,"size":56700000},"1":{"name":"Flappy Bird","bundleIdentifier":"org.brandonplank.flappybird15","developerName":"Brandon Plank","version":"4.1.0","versionDate":"2021-12-15","versionDescription":"• New bird colors","downloadURL":"https://github.com/crypticplank/flappybird/releases/download/4.1.0/org.brandonplank.flappybird.ipa","localizedDescription":"Flappy Bird remastered!","iconURL":"https://i.ibb.co/rmZh4jk/C8-D6-EA6-E-A107-4-F06-A495-F00-BFE729-D49.png","tintColor":18084,"isLanZouCloud":0,"size":2200000},"2":{"name":"Plus for Instagram","bundleIdentifier":"com.burbn.instagram","developerName":"PrasaDev","version":231.0,"versionDate":"2022-03-15","versionDescription":"• Free options unlocked\n• Last tweak update","downloadURL":"https://download1518.mediafire.com/y5907wtpgbag/7qfgn488ls7ccej/InstagramV228.0_Plus_V2.44+.ipa","localizedDescription":"Tweaked Instagram client for iOS","iconURL":"https://i.ibb.co/3hyYm3F/63-A49377-5010-4-E68-85-B5-4-E5-BC90-F15-C4.png","tintColor":18084,"isLanZouCloud":0,"size":86700000},"3":{"name":"Power Phone Cleaner","bundleIdentifier":"com.appybois.powerphoneclean","developerName":"AppyBois","version":1.0,"versionDate":"2021-02-12","versionDescription":"• Initial release","downloadURL":"https://appybois.com/altstore/PowerPhoneClean.ipa","localizedDescription":"• Clears your RAM\n• Deletes unnecessary cache","iconURL":"https://i.ibb.co/6Jc3GJ1/CFFD70-DE-1-DE9-41-A9-BE25-6-D1560-D5-A09-C.png","tintColor":18084,"isLanZouCloud":0,"size":7500000}}}
+{
+  "name": "Ignite Repo",
+  "identifier": "owo.ignite",
+  "sourceURL": "https://github.com/redstonetechwiz/Ignite/blob/main/repo.json",
+  "apps": [
+    {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Enmity Team",
+      "version": "1.0.8-220.0",
+      "versionDate": "2022-04-16",
+      "versionDescription": "• Bug fixes",
+      "downloadURL": "https://github.com/enmity-mod/enmity-ios/releases/download/release-v1.0.8/Enmity.ipa",
+      "localizedDescription": "Tweaked Discord app for iOS",
+      "iconURL": "https://i.ibb.co/1Znz7Gt/D4092-E94-5-A95-4-B8-E-ADD5-83283-D590-F6-B.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 56700000
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird15",
+      "developerName": "Brandon Plank",
+      "version": "4.1.0",
+      "versionDate": "2021-12-15",
+      "versionDescription": "• New bird colors",
+      "downloadURL": "https://github.com/crypticplank/flappybird/releases/download/4.1.0/org.brandonplank.flappybird.ipa",
+      "localizedDescription": "Flappy Bird remastered!",
+      "iconURL": "https://i.ibb.co/rmZh4jk/C8-D6-EA6-E-A107-4-F06-A495-F00-BFE729-D49.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 2200000
+    },
+    {
+      "name": "Plus for Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "PrasaDev",
+      "version": "231.0",
+      "versionDate": "2022-03-15",
+      "versionDescription": "• Free options unlocked\n• Last tweak update",
+      "downloadURL": "https://download1518.mediafire.com/y5907wtpgbag/7qfgn488ls7ccej/InstagramV228.0_Plus_V2.44+.ipa",
+      "localizedDescription": "Tweaked Instagram client for iOS",
+      "iconURL": "https://i.ibb.co/3hyYm3F/63-A49377-5010-4-E68-85-B5-4-E5-BC90-F15-C4.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 86700000
+    },
+    {
+      "name": "Power Phone Cleaner",
+      "bundleIdentifier": "com.appybois.powerphoneclean",
+      "developerName": "AppyBois",
+      "version": "1.0",
+      "versionDate": "2021-02-12",
+      "versionDescription": "• Initial release",
+      "downloadURL": "https://appybois.com/altstore/PowerPhoneClean.ipa",
+      "localizedDescription": "• Clears your RAM\n• Deletes unnecessary cache",
+      "iconURL": "https://i.ibb.co/6Jc3GJ1/CFFD70-DE-1-DE9-41-A9-BE25-6-D1560-D5-A09-C.png",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 7500000
+    }
+  ]
+}
