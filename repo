@@ -1,0 +1,63 @@
+{
+  "name": "Ignite",
+  "identifier": "com.ignite",
+  "sourceURL": "https://esign.yyyue.xyz/apps.json",
+  "apps": [
+    {
+      "name": "Enmity",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Enmity Team",
+      "version": "122.0",
+      "versionDate": "2022-04-16",
+      "versionDescription": "- bug fixes",
+      "downloadURL": "https://mega.nz/file/K943BbbD#SasovrFdaO2a12-3jZnWNkXIbaLh0c4PpKmhNG6nR4I",
+      "localizedDescription": "Tweaked Discord app for iOS",
+      "iconURL": "https://mega.nz/file/n8IXXZLK#pAukKCCBdYx019Z_bs8MhDcioWZR22-iBOv2tpVdncY",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 56700000
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird15",
+      "developerName": "Brandon Plank",
+      "version": "4.1.0",
+      "versionDate": "2019-04-20",
+      "versionDescription": "- New bird colors",
+      "downloadURL": "https://mega.nz/file/jwISXTrL#JOOnB9vbzIcmPnv9Zt4fK_qtqATTe8CXGZsVYyzZxQA",
+      "localizedDescription": "Flappy Bird remastered!",
+      "iconURL": "https://mega.nz/file/D9QCyIJK#MsiKWZ8IxsbqzvsjbdBF2yZ-Jh-OQC7IAof8n3DiehE",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 2200000
+    },
+    {
+      "name": "Plus for Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "PrasaDev",
+      "version": "228.0",
+      "versionDate": "2022-03-15",
+      "versionDescription": "- Free options unlocked\n- Last tweak update",
+      "downloadURL": "https://mega.nz/file/60JFDSja#Jacs06JRdMT7ay1qPdeGa4ydqEgR6lOEyMIO3trnbuI",
+      "localizedDescription": "Tweaked Instagram client for iOS",
+      "iconURL": "https://mega.nz/file/3whVDahA#Du9ES3siz1kKh-OuilpYplTYieroWRx-MS7g-1ofHuE",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 86700000
+    },
+    {
+      "name": "Power Phone Cleaner",
+      "bundleIdentifier": "com.appybois.powerphoneclean",
+      "developerName": "AppyBois",
+      "version": "1.0",
+      "versionDate": "2021-02-12",
+      "versionDescription": "- Initial release",
+      "downloadURL": "https://mega.nz/file/D55FQKSC#H3_KWcPi1hk6L6xFHBUsVXn4T4wHgGNDtFDMhNmXlRg",
+      "localizedDescription": "- Clears your RAM\n- Deletes unnecessary cache",
+      "iconURL": "https://mega.nz/file/XxJV0CpC#pJRDQ6D04d7behMZI4tQzvN6PVv7X2xTSHEg1X_QSaE",
+      "tintColor": "018084",
+      "isLanZouCloud": 0,
+      "size": 7500000
+    }
+  ]
+}
