@@ -1,7 +1,7 @@
 {
   "name": "Ignite",
   "identifier": "com.ignite",
-  "sourceURL": "https://esign.yyyue.xyz/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/redstonetechwiz/Ignite/main/repo.json",
   "apps": [
     {
       "name": "Enmity",
