@@ -1,7 +1,7 @@
 {
   "name": "Ignite",
   "identifier": "owo.ignite",
-  "sourceURL": "https://esign.yyyue.xyz/apps.json",
+  "sourceURL": "https://github.com/redstonetechwiz/Ignite/blob/main/repo.json",
   "apps": [
     {
       "name": "Enmity",
@@ -10,10 +10,11 @@
       "version": "1.0.8-220.0",
       "versionDate": "2022-04-16",
       "versionDescription": "- Bug fixes",
-      "downloadURL": "https://www.dropbox.com/s/5zvolscmdhbvlk5/Enmity%201.0.8..ipa?dl=1",
+      "downloadURL": "https://github.com/enmity-mod/enmity-ios/releases/download/release-v1.0.8/Enmity.ipa",
       "localizedDescription": "Tweaked Discord app for iOS",
-      "iconURL": "https://www.dropbox.com/s/5zkt06xf15165ho/Photo%20Apr%2025%2C%207%2006%2000%20PM.png?dl=0 https://www.dropbox.com/s/5zkt06xf15165ho/Photo%20Apr%2025%2C%207%2006%2000%20PM.png?dl=1",
+      "iconURL": "https://ibb.co/cJvYkhS",
       "tintColor": "018084",
+      "isLanZouCloud": 0,
       "size": 56700000
     },
     {
@@ -27,6 +28,7 @@
       "localizedDescription": "Flappy Bird remastered!",
       "iconURL": "https://www.dropbox.com/s/fad5osg6q94m3eq/Photo%20Apr%2025%2C%207%2005%2056%20PM.png?dl=1",
       "tintColor": "018084",
+      "isLanZouCloud": 0,
       "size": 2200000
     },
     {
@@ -40,6 +42,7 @@
       "localizedDescription": "Tweaked Instagram client for iOS",
       "iconURL": "https://www.dropbox.com/s/crxkprdqh7f41cp/Photo%20Apr%2025%2C%207%2006%2004%20PM.png?dl=1",
       "tintColor": "018084",
+      "isLanZouCloud": 0,
       "size": 86700000
     },
     {
@@ -53,6 +56,7 @@
       "localizedDescription": "- Clears your RAM\n- Deletes unnecessary cache",
       "iconURL": "https://www.dropbox.com/s/7eyoewcr1de66q7/Photo%20Apr%2025%2C%207%2005%2052%20PM.png?dl=1",
       "tintColor": "018084",
+      "isLanZouCloud": 0,
       "size": 7500000
     }
   ]
